@@ -1,2 +1,3 @@
-# taichung-cleaning-quotes
-Find Cleaners With Quotes in Taichung For Your Business 
+# Taichung Cleaning Quote Website
+
+A simple React app to get cleaning service quotes in Taichung.
